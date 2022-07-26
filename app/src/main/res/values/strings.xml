@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Batman Movies</string>
+    <string name="imdb">IMDb</string>
+    <string name="title">Title</string>
+    <string name="country">Country</string>
+    <string name="directors">Director</string>
+    <string name="writers">Writer</string>
+    <string name="actors">Actors</string>
+    <string name="awards">Awards</string>
+    <string name="plot">Plot</string>
+</resources>
